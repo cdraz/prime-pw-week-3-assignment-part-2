@@ -60,7 +60,7 @@ while (i < stars.length) {
 console.log('count from 0 to 5');
 i=0;
 while (i<=5) {
-  console.log(i)
+  console.log(i);
   i++;
 }
 
